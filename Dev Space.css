@@ -75,7 +75,7 @@ nav a:last-child{
 .header-body{
     display: flex;
     height: fit-content;
-    padding-bottom: 30px;
+    padding-bottom: 40px;
     padding-inline: 80px;
 }
 .header-left{
@@ -135,9 +135,9 @@ nav a:last-child{
     transform: scaleX(100%);
 }
 
-.header-left button:hover:a{
+.header-left button:hover a{
     letter-spacing: 1px;
-    transition: all 1s ease;
+    transition: all 1s ease-;
 }
 
 
